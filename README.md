@@ -1,6 +1,6 @@
 <!-- Header Banner GIF -->
 <div align="center">
-  <img src="https://i.imgur.com/1ZvVkDc.gif" width="60%" />
+  <img src="[https://i.imgur.com/1ZvVkDc.gif](https://i.imgur.com/1ZvVkDc.gif)" width="60%" />
 </div>
 
 <!-- Typing Animation Banner -->
