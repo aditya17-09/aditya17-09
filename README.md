@@ -130,11 +130,23 @@
 
 ---
 
-## 🏅 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aditya17-09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
+## 🧩 What I Actually Build
+```apex
+public class AdityaKumar implements SalesforceDeveloper {
+
+    public String currentFocus   = "BFSI · Financial Services Cloud · Revenue Cloud";
+    public String architecture   = "FFLIB · Separation of Concerns · Trigger Frameworks";
+    public String delivery       = "Copado CI/CD · Azure DevOps · Agile Sprints";
+    public String certifications = "PD1 · Agentforce Specialist · AI Associate";
+    public String learning       = "Einstein AI · Advanced Agentforce · Integrations";
+    public String background     = "B.Tech AI & ML · PwC Alumnus · 2 YOE";
+
+    public String getFunFact() {
+        return "Graduated in AI/ML. Ended up automating CRMs. No regrets. 🚀";
+    }
+}
+```
 
 ---
 
