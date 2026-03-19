@@ -1,13 +1,13 @@
 <!-- Header Banner GIF -->
 <div align="center">
-  <a href="https://github.com/zwayth">
+  <a href="https://github.com/aditya17-09">
     <img src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif" alt="MasterHead" width="100%" />
   </a>
 </div>
 
 <!-- Typing Animation Banner -->
 <div align="center">
-  <a href="https://github.com/zwayth">
+  <a href="https://github.com/aditya17-09">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Kumar;Salesforce+Developer+%F0%9F%8C%A9%EF%B8%8F;PwC+Alumnus+%7C+AI+%26+ML+Graduate+%F0%9F%8E%93;Building+Enterprise+CRM+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
@@ -113,17 +113,17 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=zwayth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Aditya's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya17-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Aditya's GitHub Stats" width="48%" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zwayth&theme=tokyonight&hide_border=true" alt="Aditya's GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya17-09&theme=tokyonight&hide_border=true" alt="Aditya's GitHub Streak" width="48%" />
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwayth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya17-09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zwayth&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya17-09&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="96%" />
 
 </div>
 
@@ -132,7 +132,7 @@
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zwayth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aditya17-09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -165,7 +165,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zwayth&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aditya17-09&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
   <br/><br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
