@@ -2,7 +2,7 @@
 <!-- Header Banner GIF -->
 <div align="center">
   <a href="https://github.com/aditya17-09">
-    <img src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif" alt="MasterHead" width="60%" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrdbBK0A7v4oxv-Iftt1FFHt4wNyszcNphpg&s" alt="MasterHead" width="60%" />
   </a>
 </div>
 
