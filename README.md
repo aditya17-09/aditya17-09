@@ -135,30 +135,28 @@ public class AdityaKumar implements SoftwareDeveloper {
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
-## 📊 GitHub Analytics
+<!-- ═══════════════════ QUEST LOG ═══════════════════ -->
+🎯 Current Quest Log
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aditya17-09&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=aditya17-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com?user=aditya17-09&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya17-09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya17-09&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="Contribution Graph"/>
+SkillProgressStatus⚡ Apex & LWC▓▓▓▓▓▓▓▓░░Shipping to prod since 2024☕ Java + Spring Boot▓▓▓▓▓▓░░░░REST APIs up & running🛤️ Apache Camel▓▓▓▓░░░░░░Routing my way through🚢 Kubernetes▓▓▓░░░░░░░Containers ≠ Tupperware (learned that the hard way)🤖 Agentforce & Einstein AI▓▓▓▓▓░░░░░Teaching bots to do the busywork
 
 </div>
+📟 Runtime Stats
+
+console$ aditya --status --verbose
+
+  ☕ Coffee consumed this sprint........... 14 cups (1 per standup, 2 per deployment)
+  🚀 Copado deployments.................... ✅ passed (on the 2nd try — that counts)
+  ⚠️ Governor limits respected............. mostly.
+  🔁 "Works in sandbox" incidents.......... 12 and counting
+  🧠 AI pair-programming sessions.......... daily — the robot never asks for coffee
+  📅 Sprint velocity....................... stable | mood: [████████░░] caffeinated
+
+$ _
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 ## 🌐 Let's Connect
