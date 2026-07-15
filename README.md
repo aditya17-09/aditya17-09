@@ -85,14 +85,14 @@
 
 ```mermaid
 timeline
-    title 2.5+ Years of Enterprise Delivery
+    title ~2.5 Years of Enterprise Delivery
     Sep 2024 : PwC Services LLP
              : Associate Salesforce Developer
              : CPQ · FFLIB · Copado CI/CD · Service Cloud
     Oct 2025 : Real Estate Client (Freelance)
              : Software Developer (Salesforce · Java)
              : LWC rebuild · Spring Boot service for Google Calendar API
-    Mar 2026 : Confidential BFSI Client (Freelance)
+    Feb 2026 : Confidential BFSI Client (Freelance)
              : Software Developer — CRM & Integrations
              : FSC · Revenue Cloud/CPQ · Java Spring Boot REST API
 ```
