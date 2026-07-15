@@ -9,11 +9,11 @@
 <!-- Typing Animation Banner -->
 <div align="center">
   <a href="https://github.com/aditya17-09">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Kumar;Salesforce+Developer+%F0%9F%8C%A9%EF%B8%8F;PwC+Alumnus+%7C+AI+%26+ML+Graduate+%F0%9F%8E%93;Building+Enterprise+CRM+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Kumar;Software+Developer+%F0%9F%92%BB;Salesforce+%7C+Java+%7C+Spring+Boot+%E2%98%81%EF%B8%8F;PwC+Alumnus+%7C+AI+%26+ML+Graduate+%F0%9F%8E%93;Building+CRM+%26+Integration+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
-<h3 align="center">⚡ Salesforce Developer · FFLIB Architect · LWC Specialist · PwC Alumnus · AI/ML Engineer</h3>
+<h3 align="center">⚡ Software Developer · Salesforce · Java & Spring Boot · PwC Alumnus · AI/ML Graduate</h3>
 
 <br/>
 
@@ -22,15 +22,17 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **building enterprise-grade Salesforce FSC solutions** for a BFSI client — automating Financial Services Cloud workflows with Apex, LWC & Revenue Cloud/CPQ
+- 🔭 I'm currently working on **enterprise Salesforce FSC solutions** for a BFSI client — automating Financial Services Cloud workflows with Apex, LWC & Revenue Cloud/CPQ, and extending the platform with **Java Spring Boot REST APIs**
 
-- 👯 I'm looking to collaborate on **open-source Salesforce tooling, LWC component libraries, and AI-powered CRM automation projects**
+- 👯 I'm looking to collaborate on **Salesforce + Java integration projects, open-source Salesforce tooling, and AI-powered CRM automation**
 
 - 🤝 I'm looking for help with **integrating AI/ML models into Salesforce orgs** — bridging my CS (AI & ML) degree with real-world CRM use cases
 
-- 🌱 I'm currently learning **Salesforce Einstein AI, Agentforce capabilities, and advanced CI/CD strategies** with Copado & Azure DevOps
+- 🌱 I'm currently learning **Apache Camel & Kubernetes** for enterprise integration and deployment, alongside **Agentforce & Einstein AI** capabilities
 
-- 💬 Ask me about **Salesforce Development (Apex, LWC, CPQ, FSC), FFLIB Architecture, Copado Deployments** or cracking Salesforce certifications
+- 🧠 I use **AI-assisted development tools** daily to speed up coding, reviews, and debugging
+
+- 💬 Ask me about **Salesforce Development (Apex, LWC, CPQ, FSC), Salesforce–Spring Boot integrations, FFLIB Architecture, Copado Deployments** or cracking Salesforce certifications
 
 - ⚡ Fun fact: I graduated with an **AI & ML engineering degree** — and ended up automating the world's #1 CRM. Turns out, the robots and the salespeople need each other 😄
 
@@ -76,6 +78,15 @@
   <img src="https://img.shields.io/badge/Financial_Services_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/Experience_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/Service_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+</p>
+
+### ☕ Backend & Integration
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apache_Camel-E97826?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ### 💻 Programming & Development
@@ -133,14 +144,15 @@
 
 ## 🧩 What I Actually Build
 ```apex
-public class AdityaKumar implements SalesforceDeveloper {
+public class AdityaKumar implements SoftwareDeveloper {
 
     public String currentFocus   = "BFSI · Financial Services Cloud · Revenue Cloud";
+    public String integrations   = "Java · Spring Boot REST APIs · Apex Callouts";
     public String architecture   = "FFLIB · Separation of Concerns · Trigger Frameworks";
     public String delivery       = "Copado CI/CD · Azure DevOps · Agile Sprints";
-    public String certifications = "PD1 · Agentforce Specialist · AI Associate";
-    public String learning       = "Einstein AI · Advanced Agentforce · Integrations";
-    public String background     = "B.Tech AI & ML · PwC Alumnus · 2 YOE";
+    public String certifications = "PD1 · Agentforce Specialist · AI Associate · Copado I & II";
+    public String learning       = "Apache Camel · Kubernetes · Agentforce";
+    public String background     = "B.Tech AI & ML · PwC Alumnus · 2.5 YOE";
 
     public String getFunFact() {
         return "Graduated in AI/ML. Ended up automating CRMs. No regrets. 🚀";
@@ -153,11 +165,11 @@ public class AdityaKumar implements SalesforceDeveloper {
 ## 💼 Work Experience Highlights
 
 ```text
-🏢  Confidential BFSI Client          March 2026 – Present      Salesforce Developer (Remote)
-    └── FSC automation · Revenue Cloud/CPQ · Apex Triggers · LWC · Reports & Dashboards
+🏢  Confidential BFSI Client          March 2026 – Present      Software Developer | CRM & Integrations (Remote)
+    └── FSC automation · Revenue Cloud/CPQ · Java Spring Boot REST API · LWC · Reports & Dashboards
 
-🏘️  Real Estate Client (Private)      Oct 2025 – Jan 2026       Salesforce Developer (Remote)
-    └── LWC rebuild · Apex refactoring · Visualforce PDF generation · Google Calendar API
+🏘️  Real Estate Client (Private)      Oct 2025 – Jan 2026       Software Developer (Salesforce · Java) (Remote)
+    └── LWC rebuild · Spring Boot service for Google Calendar API · Apex refactoring · Visualforce PDF generation
 
 🏛️  PricewaterhouseCoopers LLP        Sep 2024 – Aug 2025       Associate SF Developer (Gurugram)
     └── CPQ · FFLIB Architecture · CI/CD (Copado) · Service Cloud · Email-to-Case
@@ -187,5 +199,5 @@ public class AdityaKumar implements SalesforceDeveloper {
 ---
 
 <div align="center">
-  <i>"Automating the world's #1 CRM, one Apex trigger at a time. 🚀"</i>
+  <i>"From Apex triggers to Spring Boot services — building the glue between systems. 🚀"</i>
 </div>
