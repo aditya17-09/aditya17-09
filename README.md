@@ -36,7 +36,7 @@
 
 - ⚡ Fun fact: I graduated with an **AI & ML engineering degree** — and ended up automating the world's #1 CRM. Turns out, the robots and the salespeople need each other 😄
 
-- 📫 Reach me at **aditya1709gautam@gmail.com**
+- 📫 Reach me at **kumar.adityasep17.26@gmail.com**
 
 <br clear="right"/>
 
