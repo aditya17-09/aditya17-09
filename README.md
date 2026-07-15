@@ -85,8 +85,8 @@
 
 ```mermaid
 timeline
-    title 2.5+ Years of Enterprise Delivery
-    Sep 2024 : PwC Services LLP
+    title ~2.5 Years of Enterprise Delivery
+    Jan 2024 : PwC Services LLP
              : Associate Salesforce Developer
              : CPQ · FFLIB · Copado CI/CD · Service Cloud
     Oct 2025 : Real Estate Client (Freelance)
