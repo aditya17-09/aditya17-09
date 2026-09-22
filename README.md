@@ -1,204 +1,327 @@
-I am giving you my CURRENT GitHub README.md below.
+<div align="center">
 
-Your task is to completely redesign it into an **ultra-premium, futuristic 2026 developer portfolio** while preserving all factual information.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:00A1E0,75:6DB33F,100:326CE5&height=240&section=header&text=ADITYA%20KUMAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SENIOR%20SOFTWARE%20ENGINEER%20%40%20HCLTECH&descSize=18&descAlignY=58" width="100%"/>
 
-Do NOT simply clean up the existing README. Reimagine the entire visual experience.
+### `◉ SYSTEM ONLINE`
 
-### DESIGN VISION
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=00A1E0&center=true&vCenter=true&width=800&lines=Core+Java+%7C+Spring+Boot+%7C+REST+APIs;Salesforce+FSC+%7C+Apex+%7C+LWC;CRM+%26+Enterprise+Integration+Engineering;Apache+Camel+%7C+Kubernetes+%7C+Agentforce" alt="Typing SVG"/>
 
-Create a futuristic **AI + Enterprise Engineering Command Center** aesthetic.
+<br/>
 
-Think:
-- Advanced AI engineering dashboard
-- Cyberpunk but professional
-- Vercel × Linear × GitHub × Salesforce × Spring Boot
-- Dark premium interface
-- Glassmorphism
-- Subtle neon gradients
-- Technical grid patterns
-- Terminal-inspired UI
-- Elegant animations
-- High-end SaaS landing page
-- Strong visual storytelling
+<img src="https://komarev.com/ghpvc/?username=aditya17-09&label=PROFILE+VIEWS&color=00A1E0&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-CRM_%2B_JAVA_INTEGRATIONS-326CE5?style=for-the-badge"/>
 
-The result should make someone opening my GitHub profile immediately think:
+<br/><br/>
 
-**"This is an engineer who builds serious enterprise systems."**
+<a href="#-01--identity">IDENTITY</a> •
+<a href="#-02--technology-matrix">STACK</a> •
+<a href="#-03--career-operations">CAREER</a> •
+<a href="#-04--architecture-lab">ARCHITECTURE</a> •
+<a href="#-05--certification-vault">CERTIFICATIONS</a> •
+<a href="#-06--github-telemetry">TELEMETRY</a> •
+<a href="#-07--network">CONNECT</a>
 
-### IMPORTANT — PRESERVE MY REAL INFORMATION
+</div>
 
-Use ONLY the information contained in my current README.
+---
 
-Do NOT invent:
-- companies
-- projects
-- certifications
-- years of experience
-- technologies
-- GitHub statistics
-- achievements
-- clients
-- job titles
-- metrics
+<div align="center">
 
-You may reorganize, rename section headings, improve wording, and create visual representations of the existing information.
+`01 — IDENTITY`
 
-### NEW README STRUCTURE
+# ⚡ Engineering Identity
 
-Build the README approximately like this:
+</div>
 
-#### 00 — SYSTEM INITIALIZATION
-Create an impressive hero section containing:
+<table>
+<tr>
+<td width="55%" valign="top">
 
-**ADITYA KUMAR**
+### `CURRENT_ROLE`
 
-Senior Software Engineer @ HCLTech
+**Senior Software Engineer @ HCLTech**
 
-Core Java · Spring Boot · REST APIs · Salesforce FSC
+Building enterprise solutions with:
 
-Include:
-- animated/futuristic visual
-- profile views
-- collaboration status
-- focus areas
-- social navigation
-- smooth visual hierarchy
+- ☕ Core Java
+- 🌱 Spring Boot
+- 🔌 REST APIs
+- ☁️ Salesforce FSC
 
-#### 01 — ENGINEERING IDENTITY
+### `ENGINEERING PROFILE`
 
-Replace the traditional "About Me" section with a sophisticated developer identity panel.
+CRM & Integration Developer working across enterprise application development, Salesforce solutions, Java backend services and REST-based integrations.
 
-Show:
-- Current role
-- Core engineering focus
-- Salesforce expertise
-- Backend expertise
-- Current learning
-- Education/background
-- Contact
+### `CURRENT LEARNING`
 
-Use cards/panels instead of a boring bullet list.
+`Apache Camel` · `Kubernetes` · `Agentforce`
 
-#### 02 — TECHNOLOGY MATRIX
+</td>
 
-Turn my current Tech Arsenal into an impressive **Engineering Stack Matrix**.
+<td width="45%" valign="top">
 
-Organize:
+<div align="center">
 
-CRM / Salesforce
-Backend
-Frameworks
-Integration
-DevOps
-Cloud / Infrastructure
-Languages
-Tools
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="95%" alt="Coding"/>
 
-Use visual cards, badges, icons and grouped technologies.
+<br/><br/>
 
-#### 03 — CAREER OPERATIONS
+### `BACKGROUND`
 
-Transform the existing Mermaid timeline into a highly polished **career progression / engineering journey**.
+🎓 B.Tech — AI & ML  
+🏢 PwC alumnus  
+⏱️ 2.5+ years enterprise delivery
 
-Preserve every existing career entry and date.
+<br/>
 
-Use Mermaid where it genuinely improves the result.
+📫 **kumar.adityasep17.26@gmail.com**
 
-#### 04 — SYSTEM ARCHITECTURE
+</div>
 
-Create a visually impressive architecture section explaining the type of systems I work with based ONLY on technologies already present in my README.
+</td>
+</tr>
+</table>
 
-For example, visually represent:
+---
 
-Salesforce
-↓
-Integration Layer
-↓
-Spring Boot / REST APIs
-↓
-Enterprise Systems
+<div align="center">
 
-Do not claim that a specific architecture is actually used unless my README supports it. Clearly label conceptual architecture if necessary.
+`02 — TECHNOLOGY MATRIX`
 
-#### 05 — CERTIFICATION VAULT
+# 🧬 Tech Arsenal
 
-Transform certifications into premium certification cards/badges.
+</div>
 
-#### 06 — ENGINEERING MODE
+### ☕ Backend Engineering
 
-Keep my Java code personality section, but redesign it into a sophisticated terminal/code-editor panel.
+<div align="center">
 
-#### 07 — GITHUB TELEMETRY
+<img src="https://skillicons.dev/icons?i=java,spring,kubernetes,py,js,html,css,mysql,git,postman&perline=10"/>
 
-Redesign GitHub statistics into a clean monitoring dashboard.
+<br/><br/>
 
-Keep legitimate existing GitHub statistics widgets.
+<img src="https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOPs-ED8B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Collections-ED8B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multithreading-ED8B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-6DB33F?style=for-the-badge"/>
 
-#### 08 — DEVELOPER EASTER EGG
+</div>
 
-Keep the humor/joke concept, but make it look like a hidden developer-console section rather than a random image.
+### ☁️ Salesforce Engineering
 
-#### 09 — NETWORK
+<div align="center">
 
-Create a premium social/contact section.
+<img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/FSC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/CPQ-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Service_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 
-#### 10 — SYSTEM SHUTDOWN
+</div>
 
-End with an elegant futuristic footer.
+### 🔗 Integration & Delivery
 
-### VISUAL REQUIREMENTS
+<div align="center">
 
-Use:
-- SVG where appropriate
-- Mermaid
-- HTML
-- GitHub-compatible Markdown
-- Shields.io
-- existing dynamic GitHub widgets
-- carefully selected external visual assets
+<img src="https://img.shields.io/badge/Apache_Camel-1a1b27?style=for-the-badge&logo=apache&logoColor=E97826"/>
+<img src="https://img.shields.io/badge/Copado-1a1b27?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-1a1b27?style=for-the-badge&logo=azuredevops&logoColor=0078D7"/>
+<img src="https://img.shields.io/badge/Jira-1a1b27?style=for-the-badge&logo=jira&logoColor=0052CC"/>
+<img src="https://img.shields.io/badge/FFLIB-1a1b27?style=for-the-badge"/>
 
-Create:
-- navigation bar
-- section numbering
-- visual separators
-- cards
-- terminal panels
-- status indicators
-- technology clusters
-- architecture diagrams
+</div>
 
-Do NOT use JavaScript because GitHub README does not execute arbitrary JavaScript.
+---
 
-Avoid:
-- excessive emojis
-- huge walls of text
-- generic README templates
-- unnecessary animations
-- visual clutter
-- broken HTML
-- unreliable widgets
+<div align="center">
 
-The README must remain readable and professional.
+`03 — CAREER OPERATIONS`
 
-### CRITICAL
+# 🛰️ Career Timeline
 
-Before generating the final README:
+</div>
 
-1. Analyze my current README.
-2. Identify repetitive elements.
-3. Consolidate unnecessary separators.
-4. Improve the information hierarchy.
-5. Replace ordinary sections with visually meaningful components.
-6. Preserve my factual information.
-7. Validate all HTML/Markdown structure.
-8. Ensure anchor links work.
-9. Ensure external image URLs are syntactically correct.
-10. Make the final README copy-paste ready.
+```mermaid
+timeline
+    title Enterprise Engineering Journey
 
-Do NOT explain the redesign first.
+    Jan 2024 : PwC Services LLP
+             : Associate Salesforce Developer
+             : CPQ · FFLIB · Copado CI/CD · Service Cloud
 
-Return the **complete production-ready README.md first**, followed by a short "Design System" section explaining the major visual decisions.
+    Oct 2025 : Real Estate Client — Freelance
+             : Software Developer
+             : Salesforce · Java
+             : LWC rebuild · Spring Boot service for Google Calendar API
 
-Here is my current README:
+    Feb 2026 : Confidential BFSI Client — Freelance
+             : Software Developer — CRM & Integrations
+             : FSC · Revenue Cloud/CPQ · Java Spring Boot REST API
 
-[PASTE MY CURRENT README HERE]
+    Aug 2026 : HCLTech — Current
+             : Senior Software Engineer
+             : Core Java · Spring Boot REST APIs · Salesforce FSC
+```
+
+---
+
+<div align="center">
+
+`04 — ARCHITECTURE LAB`
+
+# 🧠 Conceptual Engineering Architecture
+
+</div>
+
+> **Note:** The following represents a conceptual view of how technologies represented in this profile can interact. It is not presented as a specific production architecture.
+
+```mermaid
+flowchart LR
+
+    U["👤 Client / User"]
+
+    SF["☁️ Salesforce<br/>FSC · Apex · LWC"]
+
+    API["🔌 REST API"]
+
+    SB["🌱 Spring Boot<br/>Java Backend"]
+
+    CAMEL["🔗 Apache Camel<br/>Integration"]
+
+    SYS["🏢 Enterprise Systems"]
+
+    K8S["☸️ Kubernetes"]
+
+    U --> SF
+    SF --> API
+    API --> SB
+    SB --> CAMEL
+    CAMEL --> SYS
+    SB --> K8S
+```
+
+### Engineering Layers
+
+| Layer | Focus |
+|---|---|
+| CRM | Salesforce · FSC · Apex · LWC |
+| Backend | Core Java · Spring Boot |
+| Integration | REST APIs · Apache Camel |
+| Infrastructure | Kubernetes |
+| Delivery | Copado · Azure DevOps · Jira |
+| Architecture | FFLIB · Enterprise CRM integrations |
+
+---
+
+<div align="center">
+
+`05 — CERTIFICATION VAULT`
+
+# 🏆 Credentials
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SALESFORCE-Platform_Developer_I-FFD700?style=for-the-badge&logo=salesforce&logoColor=black"/>
+<img src="https://img.shields.io/badge/SALESFORCE-Agentforce_Specialist-FFD700?style=for-the-badge&logo=salesforce&logoColor=black"/>
+<img src="https://img.shields.io/badge/SALESFORCE-AI_Associate-FFD700?style=for-the-badge&logo=salesforce&logoColor=black"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/COPADO-Fundamentals_I-1a1b27?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COPADO-Fundamentals_II-1a1b27?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+`06 — GITHUB TELEMETRY`
+
+# 📡 GitHub Activity
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aditya17-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya17-09&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+`07 — ENGINEERING CONSOLE`
+
+# 💻 Runtime Identity
+
+</div>
+
+```java
+public class AdityaKumar implements SoftwareDeveloper {
+
+    String role =
+        "Senior Software Engineer @ HCLTech";
+
+    String stack =
+        "Core Java · Spring Boot · REST APIs · Salesforce FSC";
+
+    String learning =
+        "Apache Camel · Kubernetes · Agentforce";
+
+    public String funFact() {
+        return "AI/ML grad, now writing Java by day "
+             + "and Apex on the side.";
+    }
+}
+```
+
+---
+
+<div align="center">
+
+`08 — DEBUG BREAK`
+
+# 😄 Compile-Time Humor
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random Developer Joke"/>
+
+</div>
+
+---
+
+<div align="center">
+
+`09 — NETWORK`
+
+# 🌐 Let's Connect
+
+<a href="https://linkedin.com/in/adityagautam17">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kumar.adityasep17.26@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aditya17-09">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.salesforce.com/trailblazer/aditya1709">
+<img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+`$ echo "Building the glue between systems — one API at a time."`
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:326CE5,50:6DB33F,100:00A1E0&height=140&section=footer" width="100%"/>
