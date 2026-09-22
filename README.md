@@ -6,26 +6,33 @@
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <div align="center">
   <a href="https://github.com/aditya17-09">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=6DB33F&center=true&vCenter=true&width=720&lines=Building+CRM+%26+Integration+Solutions+%F0%9F%9A%80;Salesforce+%E2%9A%A1+Java+%E2%9A%A1+Spring+Boot;At+HCLTech+%7C+Core+Banking+Integrations;PwC+Alumnus+%7C+B.Tech+AI+%26+ML+%F0%9F%8E%93;2.5%2B+Years+of+Enterprise+Delivery" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=6DB33F&center=true&vCenter=true&width=720&lines=Building+CRM+%26+Integration+Solutions+%F0%9F%9A%80;Salesforce+%E2%9A%A1+Java+%E2%9A%A1+Spring+Boot;At+HCLTech+%7C+Core+Java+%2B+REST+APIs;PwC+Alumnus+%7C+B.Tech+AI+%26+ML+%F0%9F%8E%93;2.5%2B+Years+of+Enterprise+Delivery" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aditya17-09&label=Profile+Views&color=00A1E0&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-6DB33F?style=for-the-badge" alt="Open to Collaboration" />
-  <img src="https://img.shields.io/badge/Focus-CRM%20%2B%20Core%20Banking%20Integrations-326CE5?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-CRM%20%2B%20Java%20Integrations-326CE5?style=for-the-badge" alt="Focus" />
 </div>
 
 <br/>
 
 <!-- Quick nav -->
 <p align="center">
-  <a href="#-about-me">About</a> ·
-  <a href="#-tech-arsenal">Tech Stack</a> ·
-  <a href="#-career-timeline">Timeline</a> ·
-  <a href="#-github-stats">Stats</a> ·
-  <a href="#-lets-connect">Connect</a>
+  <a href="#-about-me"><b>About</b></a> &nbsp;·&nbsp;
+  <a href="#-tech-arsenal"><b>Tech Stack</b></a> &nbsp;·&nbsp;
+  <a href="#-career-timeline"><b>Timeline</b></a> &nbsp;·&nbsp;
+  <a href="#-github-stats"><b>Stats</b></a> &nbsp;·&nbsp;
+  <a href="#-lets-connect"><b>Connect</b></a>
 </p>
+
+<!-- ═══════════════════ NOW BUILDING ═══════════════════ -->
+<div align="center">
+
+> ☕ **Currently building REST APIs with Core Java & Spring Boot at HCLTech** — turning client requirements into clean, production-ready backend services.
+
+</div>
 
 <!-- ═══════════════════ RAINBOW DIVIDER ═══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -37,13 +44,13 @@
 <tr>
 <td width="58%" valign="top">
 
-- 🏦 Currently a **Senior Software Engineer at HCLTech**, working on a BFSI client project — exposing **REST APIs** that map **Temenos Transact (T24)** core-banking payloads into client-defined responses
+- ☕ Currently a **Senior Software Engineer at HCLTech**, building and exposing **REST APIs** with **Core Java & Spring Boot**, mapping data to meet client requirements
 - 🔭 Also building **enterprise Salesforce FSC solutions** — Apex, LWC & Revenue Cloud/CPQ — extended with **Java Spring Boot REST APIs**
 - 🌱 Currently learning **Apache Camel & Kubernetes** for enterprise integration and deployment, alongside **Agentforce & Einstein AI**
 - 🧠 Using **AI-assisted development tools** daily to speed up coding, reviews, and debugging
-- 👯 Open to collaborating on **Salesforce + Java integrations**, **core-banking API work**, and **AI-powered CRM automation**
-- 💬 Ask me about **Apex · LWC · CPQ · FSC · Temenos Transact · Salesforce–Spring Boot integrations · FFLIB · Copado**
-- ⚡ Fun fact: graduated in **AI & ML** — ended up automating the world's #1 CRM and mapping core-banking payloads. The robots and the bankers both need someone in the middle 😄
+- 👯 Open to collaborating on **Salesforce + Java integrations**, **backend API design**, and **AI-powered CRM automation**
+- 💬 Ask me about **Apex · LWC · CPQ · FSC · Core Java · Salesforce–Spring Boot integrations · FFLIB · Copado**
+- ⚡ Fun fact: graduated in **AI & ML** — ended up writing Java by day and automating the world's #1 CRM on the side. The robots and the salespeople both need someone in the middle 😄
 - 📫 **kumar.adityasep17.26@gmail.com**
 
 </td>
@@ -78,13 +85,17 @@
 <img src="https://img.shields.io/badge/Experience_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="28"/>
 <img src="https://img.shields.io/badge/Service_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="28"/>
 
-### 🏦 Core Banking & Integration
-<img src="https://img.shields.io/badge/Temenos_Transact_(T24)-005EB8?style=flat-square" height="28"/>
+### ☕ Backend & Core Java
+<img src="https://img.shields.io/badge/Core_Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/OOPs_Concepts-ED8B00?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/Collections_Framework-ED8B00?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/Multithreading-ED8B00?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="28"/>
 <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" height="28"/>
-<img src="https://img.shields.io/badge/Payload_Mapping-005571?style=flat-square" height="28"/>
-<img src="https://img.shields.io/badge/Apache_Camel-E97826?style=flat-square&logo=apache&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Microservices-005571?style=flat-square" height="28"/>
 
-### 🚚 Delivery & Tooling
+### 🔗 Integration & Delivery
+<img src="https://img.shields.io/badge/Apache_Camel-E97826?style=flat-square&logo=apache&logoColor=white" height="28"/>
 <img src="https://img.shields.io/badge/Copado-7B68EE?style=flat-square" height="28"/>
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" height="28"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="28"/>
@@ -111,8 +122,32 @@ timeline
              : FSC · Revenue Cloud/CPQ · Java Spring Boot REST API
     Aug 2026 : HCLTech (Current)
              : Senior Software Engineer
-             : Temenos Transact REST APIs · Payload Mapping · Salesforce FSC
+             : Core Java · Spring Boot REST APIs · Salesforce FSC
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aditya17-09&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12" alt="Trophies"/>
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya17-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya17-09&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya17-09&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya17-09&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -139,15 +174,15 @@ timeline
 public class AdityaKumar implements SoftwareDeveloper {
 
     String currentRole    = "Senior Software Engineer @ HCLTech";
-    String currentFocus   = "BFSI · Core Banking (Temenos T24) · Financial Services Cloud";
-    String integrations   = "Java · Spring Boot REST APIs · Apex Callouts · Temenos Transact Payloads";
+    String currentFocus   = "Core Java · Spring Boot · REST API Development";
+    String integrations   = "Java · Spring Boot REST APIs · Apex Callouts · Payload Mapping";
     String architecture   = "FFLIB · Separation of Concerns · Trigger Frameworks";
     String delivery       = "Copado CI/CD · Azure DevOps · Agile Sprints";
     String learning       = "Apache Camel · Kubernetes · Agentforce";
     String background     = "B.Tech AI & ML · PwC Alumnus · 2.5+ YOE";
 
     public String funFact() {
-        return "Graduated in AI/ML. Ended up automating CRMs and mapping core-banking payloads. No regrets. 🚀";
+        return "Graduated in AI/ML. Ended up writing Java and automating CRMs. No regrets. 🚀";
     }
 }
 ```
@@ -170,9 +205,8 @@ flowchart LR
     end
 
     subgraph EXT["🌍 External Systems"]
-        T["🏦 Temenos Transact (T24)"]
         G["📅 Google Calendar API"]
-        O["🔗 Other Services"]
+        O["🔗 Client Systems"]
     end
 
     subgraph NEXT["🚧 Leveling Up"]
@@ -183,28 +217,11 @@ flowchart LR
     L --> A
     F --> A
     A -- "Apex Callouts" --> S
-    S -- "payload mapping" --> T
     S --> G
     S --> O
     S -.->|learning| C
     C -.->|learning| K
 ```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya17-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya17-09&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya17-09&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -242,7 +259,7 @@ flowchart LR
 
 <br/><br/>
 
-<i>"From Apex triggers to Spring Boot services to core-banking payloads — building the glue between systems. 🚀"</i>
+<i>"From Apex triggers to Spring Boot services — building the glue between systems. 🚀"</i>
 
 </div>
 
