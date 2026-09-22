@@ -1,60 +1,49 @@
-<!-- ═══════════════════ ANIMATED GRADIENT HEADER ═══════════════════ -->
+<!-- ═══════════════════ HEADER ═══════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1E0,50:6DB33F,100:326CE5&height=210&section=header&text=Aditya%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20SWE%20%40%20HCLTech%20%7C%20Salesforce%20%C2%B7%20Java%20%C2%B7%20Spring%20Boot&descSize=19&descAlignY=57" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1E0,50:6DB33F,100:326CE5&height=200&section=header&text=Aditya%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20SWE%20%40%20HCLTech%20%7C%20Salesforce%20%C2%B7%20Java%20%C2%B7%20Spring%20Boot&descSize=18&descAlignY=57" width="100%"/>
 </div>
 
-<!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <div align="center">
   <a href="https://github.com/aditya17-09">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=6DB33F&center=true&vCenter=true&width=720&lines=Building+CRM+%26+Integration+Solutions+%F0%9F%9A%80;Salesforce+%E2%9A%A1+Java+%E2%9A%A1+Spring+Boot;At+HCLTech+%7C+Core+Java+%2B+REST+APIs;PwC+Alumnus+%7C+B.Tech+AI+%26+ML+%F0%9F%8E%93;2.5%2B+Years+of+Enterprise+Delivery" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=6DB33F&center=true&vCenter=true&width=600&lines=Building+CRM+%26+Integration+Solutions;Salesforce+%E2%9A%A1+Java+%E2%9A%A1+Spring+Boot;At+HCLTech+%7C+Core+Java+%2B+REST+APIs;2.5%2B+Years+of+Enterprise+Delivery" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditya17-09&label=Profile+Views&color=00A1E0&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-6DB33F?style=for-the-badge" alt="Open to Collaboration" />
-  <img src="https://img.shields.io/badge/Focus-CRM%20%2B%20Java%20Integrations-326CE5?style=for-the-badge" alt="Focus" />
-</div>
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=aditya17-09&label=Profile+Views&color=1a1b27&style=flat-square" alt="Profile Views" height="24"/>
+<img src="https://img.shields.io/badge/Open_to-Collaboration-1a1b27?style=flat-square" alt="Open to Collaboration" height="24"/>
+<img src="https://img.shields.io/badge/Focus-CRM_%2B_Java_Integrations-1a1b27?style=flat-square" alt="Focus" height="24"/>
 
-<!-- Quick nav -->
-<p align="center">
-  <a href="#-about-me"><b>About</b></a> &nbsp;·&nbsp;
-  <a href="#-tech-arsenal"><b>Tech Stack</b></a> &nbsp;·&nbsp;
-  <a href="#-career-timeline"><b>Timeline</b></a> &nbsp;·&nbsp;
-  <a href="#-github-stats"><b>Stats</b></a> &nbsp;·&nbsp;
-  <a href="#-lets-connect"><b>Connect</b></a>
-</p>
+<br/><br/>
 
-<!-- ═══════════════════ NOW BUILDING ═══════════════════ -->
-<div align="center">
-
-> ☕ **Currently building REST APIs with Core Java & Spring Boot at HCLTech** — turning client requirements into clean, production-ready backend services.
+<a href="#-about-me">About</a> &nbsp;/&nbsp;
+<a href="#-tech-arsenal">Stack</a> &nbsp;/&nbsp;
+<a href="#-career-timeline">Timeline</a> &nbsp;/&nbsp;
+<a href="#-github-stats">Stats</a> &nbsp;/&nbsp;
+<a href="#-lets-connect">Connect</a>
 
 </div>
 
-<!-- ═══════════════════ RAINBOW DIVIDER ═══════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A1E0,50:6DB33F,100:326CE5&height=4&section=header" width="100%"/>
 
-<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+<!-- ═══════════════════ ABOUT ═══════════════════ -->
+<div align="center"><sub><b>01 — INTRODUCTION</b></sub></div>
+
 ## 🚀 About Me
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="middle">
 
-- ☕ Currently a **Senior Software Engineer at HCLTech**, building and exposing **REST APIs** with **Core Java & Spring Boot**, mapping data to meet client requirements
-- 🔭 Also building **enterprise Salesforce FSC solutions** — Apex, LWC & Revenue Cloud/CPQ — extended with **Java Spring Boot REST APIs**
-- 🌱 Currently learning **Apache Camel & Kubernetes** for enterprise integration and deployment, alongside **Agentforce & Einstein AI**
-- 🧠 Using **AI-assisted development tools** daily to speed up coding, reviews, and debugging
-- 👯 Open to collaborating on **Salesforce + Java integrations**, **backend API design**, and **AI-powered CRM automation**
-- 💬 Ask me about **Apex · LWC · CPQ · FSC · Core Java · Salesforce–Spring Boot integrations · FFLIB · Copado**
-- ⚡ Fun fact: graduated in **AI & ML** — ended up writing Java by day and automating the world's #1 CRM on the side. The robots and the salespeople both need someone in the middle 😄
+- ☕ **Senior Software Engineer at HCLTech** — building REST APIs with **Core Java & Spring Boot**
+- ⚡ Also build **Salesforce FSC** solutions — Apex, LWC, Revenue Cloud/CPQ
+- 🌱 Learning **Apache Camel, Kubernetes & Agentforce**
+- 🎓 B.Tech AI & ML · PwC alumnus · 2.5+ years in enterprise delivery
 - 📫 **kumar.adityasep17.26@gmail.com**
 
 </td>
-<td width="42%" align="center" valign="middle">
+<td width="40%" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding"/>
 
@@ -62,50 +51,56 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A1E0,50:6DB33F,100:326CE5&height=4&section=header" width="100%"/>
 
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+<!-- ═══════════════════ STACK ═══════════════════ -->
+<div align="center"><sub><b>02 — STACK</b></sub></div>
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Core Stack
-<img src="https://skillicons.dev/icons?i=java,spring,kubernetes,py,js,html,css,mysql&perline=8" alt="Core Stack"/>
+<img src="https://skillicons.dev/icons?i=java,spring,kubernetes,py,js,html,css,mysql,git,postman&perline=10" alt="Tech Icons"/>
 
-### Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" alt="Tools"/>
+<br/><br/>
 
-### ☁️ Salesforce Ecosystem
-<img src="https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Visualforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/SOQL-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/CPQ-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Financial_Services_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Experience_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Service_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="28"/>
+**Salesforce**
+<br/>
+<img src="https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/SOQL-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/CPQ-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/FSC-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Service_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="26"/>
 
-### ☕ Backend & Core Java
-<img src="https://img.shields.io/badge/Core_Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/OOPs_Concepts-ED8B00?style=flat-square" height="28"/>
-<img src="https://img.shields.io/badge/Collections_Framework-ED8B00?style=flat-square" height="28"/>
-<img src="https://img.shields.io/badge/Multithreading-ED8B00?style=flat-square" height="28"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" height="28"/>
-<img src="https://img.shields.io/badge/Microservices-005571?style=flat-square" height="28"/>
+<br/><br/>
 
-### 🔗 Integration & Delivery
-<img src="https://img.shields.io/badge/Apache_Camel-E97826?style=flat-square&logo=apache&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Copado-7B68EE?style=flat-square" height="28"/>
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/FFLIB-1F1F1F?style=flat-square" height="28"/>
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/Core_Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/OOPs-ED8B00?style=flat-square" height="26"/>
+<img src="https://img.shields.io/badge/Collections-ED8B00?style=flat-square" height="26"/>
+<img src="https://img.shields.io/badge/Multithreading-ED8B00?style=flat-square" height="26"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/REST_APIs-6DB33F?style=flat-square" height="26"/>
+
+<br/><br/>
+
+**Delivery**
+<br/>
+<img src="https://img.shields.io/badge/Apache_Camel-1a1b27?style=flat-square&logo=apache&logoColor=E97826" height="26"/>
+<img src="https://img.shields.io/badge/Copado-1a1b27?style=flat-square" height="26"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-1a1b27?style=flat-square&logo=azuredevops&logoColor=0078D7" height="26"/>
+<img src="https://img.shields.io/badge/Jira-1a1b27?style=flat-square&logo=jira&logoColor=0052CC" height="26"/>
+<img src="https://img.shields.io/badge/FFLIB-1a1b27?style=flat-square" height="26"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A1E0,50:6DB33F,100:326CE5&height=4&section=header" width="100%"/>
 
-<!-- ═══════════════════ CAREER TIMELINE ═══════════════════ -->
+<!-- ═══════════════════ TIMELINE ═══════════════════ -->
+<div align="center"><sub><b>03 — TIMELINE</b></sub></div>
+
 ## 🧭 Career Timeline
 
 ```mermaid
@@ -125,145 +120,92 @@ timeline
              : Core Java · Spring Boot REST APIs · Salesforce FSC
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A1E0,50:6DB33F,100:326CE5&height=4&section=header" width="100%"/>
 
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+<!-- ═══════════════════ STATS ═══════════════════ -->
+<div align="center"><sub><b>04 — STATS</b></sub></div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aditya17-09&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12" alt="Trophies"/>
-
-<br/><br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya17-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya17-09&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya17-09&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya17-09&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=aditya17-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya17-09&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A1E0,50:6DB33F,100:326CE5&height=4&section=header" width="100%"/>
 
 <!-- ═══════════════════ CERTIFICATIONS ═══════════════════ -->
+<div align="center"><sub><b>05 — CERTIFICATIONS</b></sub></div>
+
 ## 🏆 Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Salesforce-Platform_Developer_I-FFD700?style=for-the-badge&logo=salesforce&logoColor=black" height="32"/>
-<img src="https://img.shields.io/badge/Salesforce-Agentforce_Specialist-FFD700?style=for-the-badge&logo=salesforce&logoColor=black" height="32"/>
-<img src="https://img.shields.io/badge/Salesforce-AI_Associate-FFD700?style=for-the-badge&logo=salesforce&logoColor=black" height="32"/>
+<img src="https://img.shields.io/badge/Salesforce-Platform_Developer_I-FFD700?style=flat-square&logo=salesforce&logoColor=black" height="28"/>
+<img src="https://img.shields.io/badge/Salesforce-Agentforce_Specialist-FFD700?style=flat-square&logo=salesforce&logoColor=black" height="28"/>
+<img src="https://img.shields.io/badge/Salesforce-AI_Associate-FFD700?style=flat-square&logo=salesforce&logoColor=black" height="28"/>
 <br/>
-<img src="https://img.shields.io/badge/Copado-Fundamentals_I-7B68EE?style=for-the-badge&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Copado-Fundamentals_II-7B68EE?style=for-the-badge&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Copado-Fundamentals_I-1a1b27?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/Copado-Fundamentals_II-1a1b27?style=flat-square" height="28"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A1E0,50:6DB33F,100:326CE5&height=4&section=header" width="100%"/>
 
-<!-- ═══════════════════ WHAT I BUILD ═══════════════════ -->
+<!-- ═══════════════════ BUILD ═══════════════════ -->
+<div align="center"><sub><b>06 — BUILD</b></sub></div>
+
 ## 🧩 What I Actually Build
 
 ```java
 public class AdityaKumar implements SoftwareDeveloper {
-
-    String currentRole    = "Senior Software Engineer @ HCLTech";
-    String currentFocus   = "Core Java · Spring Boot · REST API Development";
-    String integrations   = "Java · Spring Boot REST APIs · Apex Callouts · Payload Mapping";
-    String architecture   = "FFLIB · Separation of Concerns · Trigger Frameworks";
-    String delivery       = "Copado CI/CD · Azure DevOps · Agile Sprints";
-    String learning       = "Apache Camel · Kubernetes · Agentforce";
-    String background     = "B.Tech AI & ML · PwC Alumnus · 2.5+ YOE";
+    String role     = "Senior Software Engineer @ HCLTech";
+    String stack    = "Core Java · Spring Boot · REST APIs · Salesforce FSC";
+    String learning = "Apache Camel · Kubernetes · Agentforce";
 
     public String funFact() {
-        return "Graduated in AI/ML. Ended up writing Java and automating CRMs. No regrets. 🚀";
+        return "AI/ML grad, now writing Java by day and Apex on the side.";
     }
 }
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A1E0,50:6DB33F,100:326CE5&height=4&section=header" width="100%"/>
 
-<!-- ═══════════════════ STACK FLOW ═══════════════════ -->
-## 🔗 How My Stack Connects
+<!-- ═══════════════════ HUMOR ═══════════════════ -->
+<div align="center"><sub><b>07 — A SHORT BREAK</b></sub></div>
 
-```mermaid
-flowchart LR
-    subgraph SF["☁️ Salesforce Platform"]
-        L["🧩 LWC UI"]
-        F["🔄 Flows · CPQ · FSC"]
-        A["⚡ Apex & Triggers"]
-    end
-
-    subgraph JB["☕ Java Backend"]
-        S["🌱 Spring Boot REST API"]
-    end
-
-    subgraph EXT["🌍 External Systems"]
-        G["📅 Google Calendar API"]
-        O["🔗 Client Systems"]
-    end
-
-    subgraph NEXT["🚧 Leveling Up"]
-        C["🛤️ Apache Camel"]
-        K["🚢 Kubernetes"]
-    end
-
-    L --> A
-    F --> A
-    A -- "Apex Callouts" --> S
-    S --> G
-    S --> O
-    S -.->|learning| C
-    C -.->|learning| K
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════ HUMOR BREAK ═══════════════════ -->
 ## 😄 Compile-Time Humor
 
 <div align="center">
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random Dev Joke"/>
 
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-
-<br/>
-
-<sub>☝️ fresh joke & quote on every visit — the only stats that never show zero</sub>
-
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A1E0,50:6DB33F,100:326CE5&height=4&section=header" width="100%"/>
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
+<div align="center"><sub><b>08 — CONNECT</b></sub></div>
+
 ## 🌐 Let's Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/adityagautam17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
+<a href="https://linkedin.com/in/adityagautam17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32"/></a>
 &nbsp;
-<a href="mailto:kumar.adityasep17.26@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
+<a href="mailto:kumar.adityasep17.26@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="32"/></a>
 &nbsp;
-<a href="https://github.com/aditya17-09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/></a>
+<a href="https://github.com/aditya17-09"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="32"/></a>
 &nbsp;
-<a href="https://www.salesforce.com/trailblazer/aditya1709"><img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="35"/></a>
+<a href="https://www.salesforce.com/trailblazer/aditya1709"><img src="https://img.shields.io/badge/Trailhead-00A1E0?style=flat-square&logo=salesforce&logoColor=white" height="32"/></a>
 
 <br/><br/>
 
-<i>"From Apex triggers to Spring Boot services — building the glue between systems. 🚀"</i>
+<sub><i>Building the glue between systems — one API at a time.</i></sub>
 
 </div>
 
-<!-- ═══════════════════ FOOTER WAVE ═══════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1E0,50:6DB33F,100:326CE5&height=130&section=footer" width="100%"/>
-</div>
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1E0,50:6DB33F,100:326CE5&height=120&section=footer" width="100%"/>
