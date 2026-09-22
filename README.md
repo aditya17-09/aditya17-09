@@ -4,28 +4,29 @@
 
 ### `◉ SYSTEM ONLINE`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=00A1E0&center=true&vCenter=true&width=800&lines=Core+Java+%7C+Spring+Boot+%7C+REST+APIs;Salesforce+FSC+%7C+Apex+%7C+LWC;CRM+%26+Enterprise+Integration+Engineering;Apache+Camel+%7C+Kubernetes+%7C+Agentforce" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=00A1E0&center=true&vCenter=true&width=800&lines=Core+Java+%7C+Spring+Boot+%7C+REST+APIs;Core+Banking+%26+Enterprise+Integrations;Salesforce+FSC+%7C+Apex+%7C+LWC;Apache+Camel+%7C+Kubernetes+%7C+Agentforce" alt="Typing SVG"/>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=aditya17-09&label=PROFILE+VIEWS&color=00A1E0&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-CRM_%2B_JAVA_INTEGRATIONS-326CE5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-BANKING_%2B_JAVA_INTEGRATIONS-326CE5?style=for-the-badge"/>
 
 <br/><br/>
 
-<a href="#-01--identity">IDENTITY</a> •
-<a href="#-02--technology-matrix">STACK</a> •
-<a href="#-03--career-operations">CAREER</a> •
-<a href="#-04--architecture-lab">ARCHITECTURE</a> •
-<a href="#-05--certification-vault">CERTIFICATIONS</a> •
-<a href="#-06--github-telemetry">TELEMETRY</a> •
-<a href="#-07--network">CONNECT</a>
+<a href="#identity">IDENTITY</a> •
+<a href="#stack">STACK</a> •
+<a href="#career">CAREER</a> •
+<a href="#architecture">ARCHITECTURE</a> •
+<a href="#certifications">CERTIFICATIONS</a> •
+<a href="#telemetry">TELEMETRY</a> •
+<a href="#connect">CONNECT</a>
 
 </div>
 
 ---
 
+<a id="identity"></a>
 <div align="center">
 
 `01 — IDENTITY`
@@ -85,6 +86,7 @@ CRM & Integration Developer working across enterprise application development, S
 
 ---
 
+<a id="stack"></a>
 <div align="center">
 
 `02 — TECHNOLOGY MATRIX`
@@ -137,86 +139,201 @@ CRM & Integration Developer working across enterprise application development, S
 
 ---
 
+<a id="career"></a>
 <div align="center">
 
 `03 — CAREER OPERATIONS`
 
-# 🛰️ Career Timeline
+# 🛰️ Mission Log
+
+<sub>`$ git log --career --reverse-chronological`</sub>
 
 </div>
 
-```mermaid
-timeline
-    title Enterprise Engineering Journey
+<br/>
 
-    Jan 2024 : PwC Services LLP
-             : Associate Salesforce Developer
-             : CPQ · FFLIB · Copado CI/CD · Service Cloud
+<table>
+<tr>
+<td width="22%" align="center" valign="middle">
 
-    Oct 2025 : Real Estate Client — Freelance
-             : Software Developer
-             : Salesforce · Java
-             : LWC rebuild · Spring Boot service for Google Calendar API
+<img src="https://img.shields.io/badge/AUG_2026-PRESENT-6DB33F?style=for-the-badge"/>
 
-    Feb 2026 : Confidential BFSI Client — Freelance
-             : Software Developer — CRM & Integrations
-             : FSC · Revenue Cloud/CPQ · Java Spring Boot REST API
+<br/>
 
-    Aug 2026 : HCLTech — Current
-             : Senior Software Engineer
-             : Core Java · Spring Boot REST APIs · Salesforce FSC
-```
+🟢 **`HEAD → main`**
+
+</td>
+<td width="78%" valign="top">
+
+### 🏢 HCLTech
+**Senior Software Engineer**
+
+> Building enterprise backend services and CRM integrations for large-scale clients.
+
+<img src="https://img.shields.io/badge/Core_Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-326CE5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Salesforce_FSC-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="middle">
+
+<img src="https://img.shields.io/badge/FEB_2026-AUG_2026-00A1E0?style=for-the-badge"/>
+
+<br/>
+
+🔵 **`freelance`**
+
+</td>
+<td valign="top">
+
+### 🏦 Confidential BFSI Client
+**Software Developer — CRM & Integrations**
+
+> Delivered FSC and Revenue Cloud/CPQ solutions backed by a Java Spring Boot REST API layer.
+
+<img src="https://img.shields.io/badge/FSC-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Revenue_Cloud_%2F_CPQ-00A1E0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-326CE5?style=flat-square"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="middle">
+
+<img src="https://img.shields.io/badge/OCT_2025-FEB_2026-00A1E0?style=for-the-badge"/>
+
+<br/>
+
+🔵 **`freelance`**
+
+</td>
+<td valign="top">
+
+### 🏠 Real Estate Client
+**Software Developer**
+
+> Rebuilt the LWC front end and shipped a Spring Boot service integrating the Google Calendar API.
+
+<img src="https://img.shields.io/badge/LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Calendar_API-4285F4?style=flat-square&logo=googlecalendar&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="middle">
+
+<img src="https://img.shields.io/badge/JAN_2024-OCT_2025-7B8794?style=for-the-badge"/>
+
+<br/>
+
+⚪ **`init commit`**
+
+</td>
+<td valign="top">
+
+### 💼 PwC Services LLP
+**Associate Salesforce Developer**
+
+> Enterprise Salesforce delivery on CPQ and Service Cloud using FFLIB patterns and Copado CI/CD.
+
+<img src="https://img.shields.io/badge/CPQ-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Service_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/FFLIB-1a1b27?style=flat-square"/>
+<img src="https://img.shields.io/badge/Copado_CI%2FCD-1a1b27?style=flat-square"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
+<a id="architecture"></a>
 <div align="center">
 
 `04 — ARCHITECTURE LAB`
 
-# 🧠 Conceptual Engineering Architecture
+# 🏦 Core Banking Integration Blueprint
 
 </div>
 
-> **Note:** The following represents a conceptual view of how technologies represented in this profile can interact. It is not presented as a specific production architecture.
+> **Note:** A conceptual view of how the Java, Spring Boot, Apache Camel and Kubernetes skills in this profile fit into a core banking landscape. It is not a specific production architecture.
 
 ```mermaid
 flowchart LR
+    subgraph CH["📱 Digital Channels"]
+        direction TB
+        MB["Mobile Banking"]
+        IB["Internet Banking"]
+        BR["Branch / Teller"]
+    end
 
-    U["👤 Client / User"]
+    GW["🛡️ API Gateway<br/>OAuth2 · Rate Limiting"]
 
-    SF["☁️ Salesforce<br/>FSC · Apex · LWC"]
+    subgraph MS["🌱 Spring Boot Microservices"]
+        direction TB
+        ACC["Accounts & Deposits"]
+        PAY["Payments & Transfers"]
+        LN["Loans & Lending"]
+        CIF["Customer · KYC"]
+    end
 
-    API["🔌 REST API"]
+    CAMEL["🔗 Apache Camel<br/>Routing · Transformation<br/>ISO 20022 · ISO 8583"]
 
-    SB["🌱 Spring Boot<br/>Java Backend"]
+    CBS[("🏦 Core Banking System<br/>General Ledger · CASA")]
+    RAILS["💸 Payment Rails<br/>UPI · NEFT · RTGS · SWIFT"]
+    EXT["🧾 External Services<br/>Credit Bureau · AML"]
 
-    CAMEL["🔗 Apache Camel<br/>Integration"]
+    K8S["☸️ Kubernetes<br/>Scaling · Self-healing"]
 
-    SYS["🏢 Enterprise Systems"]
+    CH -->|HTTPS / REST| GW
+    GW --> MS
+    MS -->|events · requests| CAMEL
+    CAMEL --> CBS
+    CAMEL --> RAILS
+    CAMEL --> EXT
+    K8S -. orchestrates .-> MS
 
-    K8S["☸️ Kubernetes"]
+    classDef channel fill:#0f172a,stroke:#00A1E0,color:#ffffff
+    classDef gateway fill:#326CE5,stroke:#1e3a8a,color:#ffffff
+    classDef service fill:#6DB33F,stroke:#3f6d22,color:#ffffff
+    classDef integ fill:#E97826,stroke:#9a4a10,color:#ffffff
+    classDef core fill:#050816,stroke:#FFD700,stroke-width:3px,color:#FFD700
+    classDef ext fill:#1a1b27,stroke:#7B8794,color:#ffffff
+    classDef infra fill:#326CE5,stroke:#ffffff,stroke-dasharray:4 3,color:#ffffff
 
-    U --> SF
-    SF --> API
-    API --> SB
-    SB --> CAMEL
-    CAMEL --> SYS
-    SB --> K8S
+    class MB,IB,BR channel
+    class GW gateway
+    class ACC,PAY,LN,CIF service
+    class CAMEL integ
+    class CBS core
+    class RAILS,EXT ext
+    class K8S infra
 ```
 
 ### Engineering Layers
 
-| Layer | Focus |
-|---|---|
-| CRM | Salesforce · FSC · Apex · LWC |
-| Backend | Core Java · Spring Boot |
-| Integration | REST APIs · Apache Camel |
-| Infrastructure | Kubernetes |
-| Delivery | Copado · Azure DevOps · Jira |
-| Architecture | FFLIB · Enterprise CRM integrations |
+| Layer | Responsibility | Tech |
+|---|---|---|
+| 📱 Channels | Customer touchpoints | Mobile · Web · Branch |
+| 🛡️ API | Secure entry, auth, throttling | REST · OAuth2 |
+| 🌱 Services | Domain logic per banking product | Core Java · Spring Boot |
+| 🔗 Integration | Routing, mapping, message standards | Apache Camel · ISO 20022 / 8583 |
+| 🏦 System of Record | Ledger, CASA, balances | Core Banking System |
+| ☸️ Infrastructure | Deployment, scaling, resilience | Kubernetes |
+| 🚀 Delivery | CI/CD and work tracking | Azure DevOps · Jira |
 
 ---
 
+<a id="certifications"></a>
 <div align="center">
 
 `05 — CERTIFICATION VAULT`
@@ -240,16 +357,16 @@ flowchart LR
 
 ---
 
+<a id="telemetry"></a>
 <div align="center">
 
 `06 — GITHUB TELEMETRY`
 
-# 📡 GitHub Activity
+# 📡 Contribution Pulse
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aditya17-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya17-09&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=aditya17-09&theme=tokyonight&hide_border=true&hide_longest_streak=true&ring=00A1E0&fire=6DB33F&currStreakLabel=00A1E0&sideLabels=00A1E0" alt="Total contributions and current streak"/>
 
 </div>
 
@@ -296,6 +413,7 @@ public class AdityaKumar implements SoftwareDeveloper {
 
 ---
 
+<a id="connect"></a>
 <div align="center">
 
 `09 — NETWORK`
