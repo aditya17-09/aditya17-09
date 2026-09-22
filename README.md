@@ -1,396 +1,405 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:172554,70:075985,100:064E3B&height=230&section=header&text=ADITYA%20KUMAR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DEVELOPER%20COMMAND%20CENTER&descSize=18&descAlignY=58" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════
+     HERO
+═══════════════════════════════════════════════════════════════ -->
 
 <br/>
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  SYSTEM STATUS                                               │
-│                                                              │
-│  ● ONLINE                                                    │
-│  ROLE        Senior Software Engineer @ HCLTech              │
-│  CORE        Java · Spring Boot · REST APIs                  │
-│  CRM         Salesforce FSC                                  │
-│  FOCUS       Enterprise CRM & Integration Engineering        │
-└──────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=6DB33F&center=true&vCenter=true&width=750&lines=%3E+Initializing+engineering+profile...;%3E+Loading+Java+runtime...;%3E+Loading+Salesforce+ecosystem...;%3E+Loading+integration+stack...;%3E+System+ready." alt="Terminal"/>
-
-</div>
-
----
-
 <div align="center">
 
-### `COMMAND MENU`
+<sub>⬡&nbsp;&nbsp;SYSTEMS ENGINEER PORTFOLIO</sub>
 
-`[01 IDENTITY]` · `[02 CAPABILITIES]` · `[03 CAREER]` · `[04 ARCHITECTURE]` · `[05 CREDENTIALS]` · `[06 TELEMETRY]` · `[07 NETWORK]`
+# ADITYA KUMAR
+
+**Senior Software Engineer @ HCLTech**
+
+Core Java · Spring Boot · REST APIs · Salesforce FSC
+
+<sub>🟢 ENGINEERING SYSTEMS ONLINE</sub>
+
+<br/>
+
+<a href="https://github.com/aditya17-09"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=E6EDF3" height="34"/></a>
+<a href="https://linkedin.com/in/adityagautam17"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="34"/></a>
+<a href="https://www.salesforce.com/trailblazer/aditya1709"><img src="https://img.shields.io/badge/Trailhead-161B22?style=for-the-badge&logo=salesforce&logoColor=00A1E0" height="34"/></a>
+<a href="mailto:kumar.adityasep17.26@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" height="34"/></a>
 
 </div>
 
----
+<br/>
 
-# `01 // IDENTITY`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00A1E0,100:0D1117&height=2&section=header" width="100%"/>
 
-<table>
+<!-- ═══════════════════════════════════════════════════════════════
+     PROFILE DASHBOARD
+═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<sub><b>PROFILE DASHBOARD</b></sub>
+
+## Profile Dashboard
+
+<table width="100%">
+<tr><td>
+
+|  |  |
+|---|---|
+| **CURRENT ROLE** | HCLTech — Senior Software Engineer |
+| **PRIMARY STACK** | Java · Spring Boot |
+| **CRM** | Salesforce FSC |
+| **INTEGRATION** | REST APIs · Apache Camel |
+| **INFRASTRUCTURE** | Kubernetes |
+| **EXPERIENCE** | 2.5+ years enterprise delivery |
+
+</td></tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00A1E0,100:0D1117&height=2&section=header" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════
+     ENGINEERING STACK
+═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<sub><b>ENGINEERING STACK</b></sub>
+
+## Engineering Stack
+
+<br/>
+
+**01 — LANGUAGES**
+
+<img src="https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=ED8B00" height="28"/>
+<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" height="28"/>
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" height="28"/>
+<img src="https://img.shields.io/badge/HTML-161B22?style=flat-square&logo=html5&logoColor=E34F26" height="28"/>
+<img src="https://img.shields.io/badge/CSS-161B22?style=flat-square&logo=css3&logoColor=1572B6" height="28"/>
+
+<br/><br/>
+
+**02 — BACKEND**
+
+<img src="https://img.shields.io/badge/Spring_Boot-161B22?style=flat-square&logo=springboot&logoColor=6DB33F" height="28"/>
+<img src="https://img.shields.io/badge/REST_APIs-161B22?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/OOPs-161B22?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/Collections_Framework-161B22?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/Multithreading-161B22?style=flat-square" height="28"/>
+
+<br/><br/>
+
+**03 — CRM (SALESFORCE)**
+
+<img src="https://img.shields.io/badge/Apex-161B22?style=flat-square&logo=salesforce&logoColor=00A1E0" height="28"/>
+<img src="https://img.shields.io/badge/LWC-161B22?style=flat-square&logo=salesforce&logoColor=00A1E0" height="28"/>
+<img src="https://img.shields.io/badge/SOQL-161B22?style=flat-square&logo=salesforce&logoColor=00A1E0" height="28"/>
+<img src="https://img.shields.io/badge/CPQ-161B22?style=flat-square&logo=salesforce&logoColor=00A1E0" height="28"/>
+<img src="https://img.shields.io/badge/Financial_Services_Cloud-161B22?style=flat-square&logo=salesforce&logoColor=00A1E0" height="28"/>
+<img src="https://img.shields.io/badge/Service_Cloud-161B22?style=flat-square&logo=salesforce&logoColor=00A1E0" height="28"/>
+<img src="https://img.shields.io/badge/Agentforce-161B22?style=flat-square&logo=salesforce&logoColor=00A1E0" height="28"/>
+<img src="https://img.shields.io/badge/Einstein_AI-161B22?style=flat-square&logo=salesforce&logoColor=00A1E0" height="28"/>
+<img src="https://img.shields.io/badge/FFLIB-161B22?style=flat-square" height="28"/>
+
+<br/><br/>
+
+**04 — INTEGRATION**
+
+<img src="https://img.shields.io/badge/Apache_Camel-161B22?style=flat-square&logo=apache&logoColor=E97826" height="28"/>
+<img src="https://img.shields.io/badge/REST_API_Integration-161B22?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/Salesforce_%E2%86%94_Spring_Boot-161B22?style=flat-square" height="28"/>
+
+<br/><br/>
+
+**05 — DEVOPS / INFRASTRUCTURE**
+
+<img src="https://img.shields.io/badge/Kubernetes-161B22?style=flat-square&logo=kubernetes&logoColor=326CE5" height="28"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-161B22?style=flat-square&logo=azuredevops&logoColor=0078D7" height="28"/>
+<img src="https://img.shields.io/badge/Copado_CI%2FCD-161B22?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/Jira-161B22?style=flat-square&logo=jira&logoColor=0052CC" height="28"/>
+
+<br/><br/>
+
+**06 — TOOLING**
+
+<img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032" height="28"/>
+<img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=E6EDF3" height="28"/>
+<img src="https://img.shields.io/badge/VS_Code-161B22?style=flat-square&logo=visualstudiocode&logoColor=007ACC" height="28"/>
+<img src="https://img.shields.io/badge/Postman-161B22?style=flat-square&logo=postman&logoColor=FF6C37" height="28"/>
+<img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" height="28"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00A1E0,100:0D1117&height=2&section=header" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════
+     CAREER
+═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<sub><b>CAREER JOURNEY</b></sub>
+
+## Career
+
+```mermaid
+timeline
+    title 2.5+ Years of Enterprise Delivery
+    Jan 2024 : PwC Services LLP
+             : Associate Salesforce Developer
+             : CPQ · FFLIB · Copado CI/CD · Service Cloud
+    Oct 2025 : Real Estate Client (Freelance)
+             : Software Developer (Salesforce · Java)
+             : LWC rebuild · Spring Boot service for Google Calendar API
+    Feb 2026 : Confidential BFSI Client (Freelance)
+             : Software Developer — CRM & Integrations
+             : FSC · Revenue Cloud/CPQ · Java Spring Boot REST API
+    Aug 2026 : HCLTech (Current)
+             : Senior Software Engineer
+             : Core Java · Spring Boot REST APIs · Salesforce FSC
+```
+
+<br/>
+
+<table width="100%">
+<tr><td>
+
+**HCLTech** — Senior Software Engineer
+<sub>Aug 2026 — Present</sub>
+
+Building and exposing REST APIs with Core Java & Spring Boot, mapping data to meet client requirements. Also contributing to Salesforce FSC work.
+
+`Core Java` `Spring Boot` `REST APIs` `Salesforce FSC`
+
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td>
+
+**Confidential BFSI Client** — Software Developer, CRM & Integrations <sub>(Freelance)</sub>
+<sub>Feb 2026 — Aug 2026</sub>
+
+Delivered Salesforce Financial Services Cloud and Revenue Cloud/CPQ configuration, extended with Java Spring Boot REST APIs.
+
+`Salesforce FSC` `Revenue Cloud/CPQ` `Java` `Spring Boot` `REST APIs`
+
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td>
+
+**Real Estate Client** — Software Developer, Salesforce & Java <sub>(Freelance)</sub>
+<sub>Oct 2025 — Feb 2026</sub>
+
+Rebuilt the Lightning Web Components UI and built a Spring Boot service bridging Salesforce to the Google Calendar API.
+
+`Salesforce LWC` `Java` `Spring Boot` `Google Calendar API`
+
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td>
+
+**PwC Services LLP** — Associate Salesforce Developer
+<sub>Jan 2024 — Oct 2025</sub>
+
+Delivered CPQ implementations and Service Cloud solutions using the FFLIB enterprise architecture pattern, with Copado for CI/CD.
+
+`CPQ` `FFLIB` `Copado CI/CD` `Service Cloud`
+
+</td></tr>
+</table>
+
+<br/>
+
+<sub>🎓 B.Tech, Artificial Intelligence &amp; Machine Learning</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00A1E0,100:0D1117&height=2&section=header" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════
+     ENGINEERING ARCHITECTURE
+═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<sub><b>ENGINEERING ARCHITECTURE</b></sub>
+
+## Engineering Architecture
+
+<sub>⚠ Conceptual architecture — an illustrative representation of the systems described in this profile, not a diagram of any single deployed system.</sub>
+
+<br/>
+
+```mermaid
+flowchart TD
+    A["👤 User / Client"] --> B["☁️ CRM — Salesforce FSC"]
+    B --> C["🔗 Integration Layer"]
+    C --> D["☕ Java / Spring Boot"]
+    D --> E["🌐 REST APIs"]
+    E --> F["🏢 Enterprise Systems"]
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00A1E0,100:0D1117&height=2&section=header" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════
+     CERTIFICATIONS
+═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<sub><b>CREDENTIALS</b></sub>
+
+## Certifications
+
+<table width="100%">
 <tr>
 <td width="33%" align="center">
 
-### ROLE
-
-**Senior Software Engineer**
-
-HCLTech
+🏅 **Salesforce**
+<br/>Platform Developer I
 
 </td>
-
 <td width="33%" align="center">
 
-### BACKEND
-
-**Java + Spring Boot**
-
-REST APIs
+🏅 **Salesforce**
+<br/>Agentforce Specialist
 
 </td>
-
 <td width="33%" align="center">
 
-### CRM
-
-**Salesforce FSC**
-
-Apex · LWC
+🏅 **Salesforce**
+<br/>AI Associate
 
 </td>
 </tr>
+<tr>
+<td width="33%" align="center">
+
+🏅 **Copado**
+<br/>Fundamentals I
+
+</td>
+<td width="33%" align="center">
+
+🏅 **Copado**
+<br/>Fundamentals II
+
+</td>
+<td width="33%"></td>
+</tr>
 </table>
 
-### Operator Profile
+<br/>
 
-```text
-NAME             Aditya Kumar
-CURRENT ROLE     Senior Software Engineer @ HCLTech
-EXPERIENCE       2.5+ Years Enterprise Delivery
-EDUCATION        B.Tech — AI & ML
-BACKGROUND       PwC alumnus
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00A1E0,100:0D1117&height=2&section=header" width="100%"/>
 
-CURRENT STACK
-────────────────────────────────────────────────────────────
-Core Java       ████████████████████
-Spring Boot     ████████████████████
-REST APIs       ████████████████████
-Salesforce      ████████████████████
-Integration     ████████████████░░░░
-Infrastructure  ██████████████░░░░░░
+<!-- ═══════════════════════════════════════════════════════════════
+     CODE IDENTITY
+═══════════════════════════════════════════════════════════════ -->
 
-CURRENT LEARNING
-────────────────────────────────────────────────────────────
-Apache Camel · Kubernetes · Agentforce
-```
+<br/>
 
-📫 **kumar.adityasep17.26@gmail.com**
+<sub><b>CODE IDENTITY</b></sub>
 
----
+## Code Identity
 
-# `02 // CAPABILITIES`
-
-## Engineering Matrix
-
-| SYSTEM | CAPABILITIES |
-|---|---|
-| `BACKEND` | Core Java · OOPs · Collections · Multithreading |
-| `FRAMEWORK` | Spring Boot |
-| `API` | REST APIs |
-| `CRM` | Salesforce · FSC · Service Cloud |
-| `CRM DEV` | Apex · LWC · SOQL · CPQ |
-| `INTEGRATION` | Apache Camel |
-| `INFRA` | Kubernetes |
-| `DELIVERY` | Copado · Azure DevOps · Jira |
-| `ARCHITECTURE` | FFLIB |
-| `LANGUAGES` | Java · Python · JavaScript · HTML · CSS |
-| `DATA` | MySQL |
-| `TOOLS` | Git · Postman |
-
-### Technology Interface
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,kubernetes,py,js,html,css,mysql,git,postman&perline=10"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Salesforce-Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
-<img src="https://img.shields.io/badge/Salesforce-LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
-<img src="https://img.shields.io/badge/Salesforce-FSC-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
-<img src="https://img.shields.io/badge/Salesforce-CPQ-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache-Camel-1a1b27?style=flat-square&logo=apache"/>
-<img src="https://img.shields.io/badge/Copado-1a1b27?style=flat-square"/>
-<img src="https://img.shields.io/badge/Azure_DevOps-1a1b27?style=flat-square&logo=azuredevops"/>
-
-</div>
-
----
-
-# `03 // CAREER OPERATIONS`
-
-```text
-┌─────────────────────────────────────────────────────────────────┐
-│  2024.01                                                        │
-│  PWC SERVICES LLP                                               │
-│  ASSOCIATE SALESFORCE DEVELOPER                                 │
-│                                                                 │
-│  CPQ · FFLIB · COPADO CI/CD · SERVICE CLOUD                     │
-└─────────────────────────────────────────────────────────────────┘
-
-                         ↓
-
-┌─────────────────────────────────────────────────────────────────┐
-│  2025.10                                                        │
-│  REAL ESTATE CLIENT · FREELANCE                                 │
-│  SOFTWARE DEVELOPER                                             │
-│                                                                 │
-│  SALESFORCE · JAVA                                              │
-│  LWC REBUILD · SPRING BOOT SERVICE                              │
-│  GOOGLE CALENDAR API                                            │
-└─────────────────────────────────────────────────────────────────┘
-
-                         ↓
-
-┌─────────────────────────────────────────────────────────────────┐
-│  2026.02                                                        │
-│  CONFIDENTIAL BFSI CLIENT · FREELANCE                           │
-│  SOFTWARE DEVELOPER — CRM & INTEGRATIONS                        │
-│                                                                 │
-│  FSC · REVENUE CLOUD/CPQ                                       │
-│  JAVA · SPRING BOOT REST API                                    │
-└─────────────────────────────────────────────────────────────────┘
-
-                         ↓
-
-┌─────────────────────────────────────────────────────────────────┐
-│  2026.08                                                        │
-│  HCLTECH                                                        │
-│  SENIOR SOFTWARE ENGINEER                                      │
-│                                                                 │
-│  CORE JAVA · SPRING BOOT REST APIs · SALESFORCE FSC             │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `04 // ARCHITECTURE LAB`
-
-## Conceptual Engineering Architecture
-
-> Conceptual representation based on the technologies listed in this profile.
-
-```mermaid
-flowchart TB
-
-    USER["👤 USER / CLIENT"]
-
-    subgraph CRM["CRM EXPERIENCE"]
-        SF["☁️ SALESFORCE FSC"]
-        APEX["⚡ APEX"]
-        LWC["◈ LWC"]
-    end
-
-    subgraph API["APPLICATION & INTEGRATION"]
-        REST["🔌 REST APIs"]
-        JAVA["☕ CORE JAVA"]
-        SPRING["🌱 SPRING BOOT"]
-        CAMEL["🔗 APACHE CAMEL"]
-    end
-
-    subgraph DELIVERY["DELIVERY & INFRASTRUCTURE"]
-        K8S["☸️ KUBERNETES"]
-        COPADO["COPADO"]
-        ADO["AZURE DEVOPS"]
-    end
-
-    ENTERPRISE["🏢 ENTERPRISE SYSTEMS"]
-
-    USER --> SF
-    SF --> APEX
-    SF --> LWC
-
-    SF --> REST
-    REST --> JAVA
-    JAVA --> SPRING
-    SPRING --> CAMEL
-    CAMEL --> ENTERPRISE
-
-    SPRING --> K8S
-
-    COPADO --> CRM
-    ADO --> API
-```
-
-### Architecture Domains
-
-<div align="center">
-
-| CRM | BACKEND | INTEGRATION | DELIVERY |
-|:---:|:---:|:---:|:---:|
-| Salesforce | Java | REST APIs | Copado |
-| FSC | Spring Boot | Apache Camel | Azure DevOps |
-| Apex | Multithreading | Enterprise Integration | Jira |
-| LWC | Collections | APIs | Kubernetes |
-
-</div>
-
----
-
-# `05 // CREDENTIAL VAULT`
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                  SALESFORCE                         │
-├─────────────────────────────────────────────────────┤
-│  PLATFORM DEVELOPER I                               │
-│  AGENTFORCE SPECIALIST                              │
-│  AI ASSOCIATE                                       │
-└─────────────────────────────────────────────────────┘
-```
-
-<img src="https://img.shields.io/badge/Platform_Developer_I-FFD700?style=for-the-badge&logo=salesforce&logoColor=black"/>
-<img src="https://img.shields.io/badge/Agentforce_Specialist-FFD700?style=for-the-badge&logo=salesforce&logoColor=black"/>
-<img src="https://img.shields.io/badge/AI_Associate-FFD700?style=for-the-badge&logo=salesforce&logoColor=black"/>
-
-<br/><br/>
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                    COPADO                           │
-├─────────────────────────────────────────────────────┤
-│  FUNDAMENTALS I                                     │
-│  FUNDAMENTALS II                                    │
-└─────────────────────────────────────────────────────┘
-```
-
-<img src="https://img.shields.io/badge/Copado-Fundamentals_I-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Copado-Fundamentals_II-111111?style=for-the-badge"/>
-
-</div>
-
----
-
-# `06 // GITHUB TELEMETRY`
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                    GITHUB TELEMETRY                         │
-│                                                             │
-│                 ACTIVITY MONITORING                         │
-└─────────────────────────────────────────────────────────────┘
-```
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya17-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya17-09&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# `07 // ENGINEERING CONSOLE`
-
-## Runtime
+<sub>`● ● ●`&nbsp;&nbsp;`AdityaKumar.java`</sub>
 
 ```java
 public class AdityaKumar implements SoftwareDeveloper {
-
-    String role =
-        "Senior Software Engineer @ HCLTech";
-
-    String stack =
-        "Core Java · Spring Boot · REST APIs · Salesforce FSC";
-
-    String learning =
-        "Apache Camel · Kubernetes · Agentforce";
+    String role     = "Senior Software Engineer @ HCLTech";
+    String stack    = "Core Java · Spring Boot · REST APIs · Salesforce FSC";
+    String learning = "Apache Camel · Kubernetes · Agentforce";
 
     public String funFact() {
-        return "AI/ML grad, now writing Java by day "
-             + "and Apex on the side.";
+        return "AI/ML grad, now writing Java by day and Apex on the side.";
     }
 }
 ```
 
-### Process Monitor
+<br/>
 
-```text
-JAVA RUNTIME ............... ACTIVE
-SPRING BOOT ................ ACTIVE
-REST API LAYER ............. ACTIVE
-SALESFORCE FSC ............. ACTIVE
-APACHE CAMEL ............... LEARNING
-KUBERNETES ................. LEARNING
-AGENTFORCE ................. LEARNING
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00A1E0,100:0D1117&height=2&section=header" width="100%"/>
 
-STATUS ..................... READY
-```
-
----
-
-# `08 // DEBUG BREAK`
-
-<div align="center">
-
-### `// Random developer humor detected`
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random Developer Joke"/>
-
-</div>
-
----
-
-# `09 // NETWORK`
-
-<div align="center">
-
-```text
-$ connect --linkedin
-$ connect --github
-$ connect --trailhead
-$ connect --email
-```
+<!-- ═══════════════════════════════════════════════════════════════
+     GITHUB ANALYTICS
+═══════════════════════════════════════════════════════════════ -->
 
 <br/>
 
-<a href="https://linkedin.com/in/adityagautam17">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<sub><b>GITHUB ANALYTICS</b></sub>
 
-<a href="https://github.com/aditya17-09">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## GitHub Analytics
 
-<a href="https://www.salesforce.com/trailblazer/aditya1709">
-<img src="https://img.shields.io/badge/TRAILHEAD-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-</a>
+<div align="center">
 
-<a href="mailto:kumar.adityasep17.26@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=aditya17-09&show_icons=true&hide_border=true&bg_color=00000000&title_color=E6EDF3&text_color=8B949E&icon_color=00A1E0&count_private=true" alt="GitHub Stats"/>
+<img height="160" src="https://streak-stats.demolab.com/?user=aditya17-09&hide_border=true&background=00000000&ring=00A1E0&fire=ED8B00&currStreakLabel=8B949E&sideLabels=8B949E&sideNums=E6EDF3&dates=8B949E&currStreakNum=E6EDF3" alt="GitHub Streak"/>
 
-<br/><br/>
+<br/>
 
-```text
-────────────────────────────────────────────────────────────
-SYSTEM MESSAGE
-
-Building the glue between systems — one API at a time.
-
-────────────────────────────────────────────────────────────
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya17-09&bg_color=00000000&color=8B949E&line=00A1E0&point=ED8B00&area=true&area_color=00A1E0&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:075985,100:020617&height=130&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00A1E0,100:0D1117&height=2&section=header" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════
+     PERSONALITY
+═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<sub><b>OFF THE CLOCK</b></sub>
+
+<details>
+<summary><b>A little personality</b></summary>
+
+<br/>
+
+Uses AI-assisted development tools daily — because why wouldn't you.
+
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder" alt="Random Dev Joke"/>
+</div>
+
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00A1E0,100:0D1117&height=2&section=header" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════
+     CONTACT
+═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+<sub><b>CONNECT</b></sub>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/adityagautam17"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="34"/></a>
+<a href="https://github.com/aditya17-09"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=E6EDF3" height="34"/></a>
+<a href="https://www.salesforce.com/trailblazer/aditya1709"><img src="https://img.shields.io/badge/Trailhead-161B22?style=for-the-badge&logo=salesforce&logoColor=00A1E0" height="34"/></a>
+<a href="mailto:kumar.adityasep17.26@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" height="34"/></a>
+
+<br/><br/>
+
+<sub>Building the glue between systems — one API at a time.</sub>
+
+</div>
+
+<br/>
